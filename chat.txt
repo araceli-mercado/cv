@@ -1,0 +1,4 @@
+08:41:08	 From Araceli Mercado : https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git
+08:42:23	 From Flores Sanches Seba : winowds
+08:42:46	 From Verónica Vásquez Cruz : windows
+08:42:51	 From Alan Emmanuel Terrones Sánchez : Windows
